@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.json
+*.ini
+*.lock
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Include all files in the results folder
+!results/**/*
